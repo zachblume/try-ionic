@@ -1,0 +1,7 @@
+{
+  "name": "Raise More",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
